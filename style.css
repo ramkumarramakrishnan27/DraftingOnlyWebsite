@@ -173,7 +173,7 @@ header {
 .hero-tools-illustration {
 	position: absolute;
 	z-index: 1;
-	opacity: 0.5;
+	opacity: 0.3;
 	pointer-events: none;
 }
 .hero-tools-top-left {
